@@ -1,0 +1,16 @@
+# compiled output
+bin/
+build/
+*.o
+*.out
+*.dSYM/
+a.out
+
+# macOS / editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# personal planning notes and scratch work (kept local)
+private-notes/
+scratch/
