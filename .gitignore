@@ -14,3 +14,8 @@ a.out
 # personal planning notes and scratch work (kept local)
 private-notes/
 scratch/
+
+# compiled pointer exercises
+basics/pointers/challenge
+basics/pointers/linkedlist
+basics/pointers/pointers
